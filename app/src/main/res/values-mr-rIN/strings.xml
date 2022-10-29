@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="your_name_display">तुमचे नाव ...</string>
+    <string name="join_meeting_display">Join</string>
+    <string name="leave_display">Leave</string>
+    <string name="camera_permission_display">कॅमेरा परवानगी</string>
+    <string name="camera_permission_des_display">कॅमेरा परवानगीशिवाय अॅप कार्य करू शकत नाही.</string>
+    <string name="usage_stats_display">Usage Stats Permission</string>
+    <string name="usage_stats_des_display">Usage Stats परवानगीशिवाय अॅप कार्य करू शकत नाही</string>
+    <string name="allow_display">परवानगी द्या</string>
+    <string name="close_display">बंद करा</string>
+</resources>

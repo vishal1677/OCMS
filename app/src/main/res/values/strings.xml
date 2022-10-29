@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">OCMS Student</string>
+
+    <string name="notification_channel_id" translatable="false">id</string>
+    <string name="notification_channel_name" translatable="false">OCMS</string>
+    <string name="notification_title" translatable="false">OCMS is running…</string>
+    <string name="notification_message" translatable="false">Return to the app</string>
+    <string name="service_running_status_key" translatable="false">service_running_status</string>
+
+
+    <string name="your_name_display">Your name ...</string>
+    <string name="join_meeting_display">Join Meeting</string>
+    <string name="leave_display">Leave</string>
+    <string name="camera_permission_display">Camera Permission</string>
+    <string name="camera_permission_des_display">The app couldn\'t function without the camera permission.</string>
+    <string name="usage_stats_display">Usage Stats Permission</string>
+    <string name="usage_stats_des_display">The app couldn\'t function without the usage stats permission.</string>
+    <string name="allow_display">ALLOW</string>
+    <string name="close_display">CLOSE</string>
+</resources>
